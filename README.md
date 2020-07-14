@@ -4,4 +4,4 @@ I am software engineer that particularly passionate about creating web applicati
 
 ## Find me around the web 🌍:
  - Sharing updates on [LinkedIn](https://www.linkedin.com/in/vladyslav-burdeniuk/) 💼
- - Sharing knowledge on [![Vladyslav's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =50x50)](https://dev.to/vbrdnk)
+ - Sharing knowledge on [![Vladyslav's DEV Profile | 50x50](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/vbrdnk)
