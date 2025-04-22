@@ -1,6 +1,12 @@
-## Hi, Vladyslav is here 👨🏻‍💻
+## Hi, Vlad is here 👨🏻‍💻
 
-I am Senior Frontend Developer with more than 6 years of experience working at both fast-paced startups and well-established IT companies. The mix of experiences helped me become a quick learner and proactive team player. I am passionate about developing user-oriented software while adhering to the best practices and most recent technologies available in the industry.
+I'm a Senior Engineer with over 7 years of experience working at both fast-paced startups and well-established IT companies.
+
+I'm passionate about developing user-oriented software while adhering to industry best practices and leveraging the latest technologies.
+
+I work at [Spotify](https://www.lifeatspotify.com/)
+
+Neovim and terminal enthusiast. Probably spend too much time tweaking my configs.
 
 You can find my resume [here](https://read.cv/vbrdnk)
     
