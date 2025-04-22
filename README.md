@@ -8,6 +8,8 @@ I work at [Spotify](https://www.lifeatspotify.com/)
 
 Neovim and terminal enthusiast. Probably spend too much time tweaking my configs.
 
+I write about different things on my [blog](https://vbrdnk.dev/blog)
+
 You can find my resume [here](https://read.cv/vbrdnk)
     
 
